@@ -1,7 +1,6 @@
 # Makefile
 #
 # Make file for compiling nRF24LE1 applications using SDCC and nRF24LE1_SDK
-
 # Specify the target device pin package. Options are 24, 32, or 48
 PINS := 24
 
